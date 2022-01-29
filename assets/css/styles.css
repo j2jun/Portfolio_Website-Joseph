@@ -1059,7 +1059,7 @@ img{
     .services__content{
         padding-right: 3.5rem;
     }
-    .servics__modal{
+    .services__modal{
         padding: 0 .5rem;
     }
 
@@ -1111,7 +1111,7 @@ img{
     }
 }
 
-@media screen and (mid-width: 768px) {
+@media screen and (min-width: 768px) {
     .container{
         margin-left: auto;
         margin-right: auto;
@@ -1129,7 +1129,7 @@ img{
     }
 
     .header{
-        top:0;
+        top: 0;
         bottom: initial;
     }
     .header,
@@ -1257,7 +1257,7 @@ img{
     }
 }
 /* For large devices */
-@media screen and (mid-width: 1024px){
+@media screen and (min-width: 1024px){
     .header,
     .main,
     .footer__container{
