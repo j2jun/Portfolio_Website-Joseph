@@ -913,7 +913,7 @@ img{
 
 .contact__input{
     width: 100%;
-    border-color: var(--input-color);
+    background-color: var(--input-color);
     color: var(--text-color);
     font-family: var(--body-font);
     font-size: var(--normal-font-size);
